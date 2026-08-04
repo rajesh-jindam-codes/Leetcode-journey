@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
+| [0516-longest-palindromic-subsequence](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0516-longest-palindromic-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3731-find-missing-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
