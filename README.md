@@ -10,10 +10,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0001-two-sum) |
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
+| [3731-find-missing-elements](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -30,4 +32,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
