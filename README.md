@@ -9,8 +9,25 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0001-two-sum) |
+| [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
