@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
+| [0210-course-schedule-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0210-course-schedule-ii) |
 | [3310-remove-methods-from-project](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
@@ -49,10 +50,12 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0210-course-schedule-ii) |
 | [3310-remove-methods-from-project](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0210-course-schedule-ii) |
 | [3310-remove-methods-from-project](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
 |  |
@@ -62,4 +65,8 @@
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
