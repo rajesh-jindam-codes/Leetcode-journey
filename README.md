@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
+| [3310-remove-methods-from-project](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0516-longest-palindromic-subsequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
