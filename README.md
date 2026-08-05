@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
+| [0207-course-schedule](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0210-course-schedule-ii) |
 | [3310-remove-methods-from-project](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -50,11 +51,13 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0210-course-schedule-ii) |
 | [3310-remove-methods-from-project](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0210-course-schedule-ii) |
 | [3310-remove-methods-from-project](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
@@ -68,5 +71,10 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0210-course-schedule-ii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
