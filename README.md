@@ -25,6 +25,7 @@
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
 | [0516-longest-palindromic-subsequence](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0516-longest-palindromic-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1768-merge-strings-alternately](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1768-merge-strings-alternately) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1768-merge-strings-alternately](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
