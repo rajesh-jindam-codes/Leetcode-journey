@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0007-reverse-integer) |
+| [0866-prime-palindrome](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0866-prime-palindrome) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
@@ -113,4 +114,12 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
+## Number Theory
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0866-prime-palindrome) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
