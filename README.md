@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3731-find-missing-elements](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3731-find-missing-elements) |
 ## String
@@ -125,4 +126,16 @@
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0866-prime-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
