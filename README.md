@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0007-reverse-integer) |
 | [0866-prime-palindrome](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0866-prime-palindrome) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
 | ------- |
@@ -37,10 +38,12 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1768-merge-strings-alternately) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -93,6 +96,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -122,6 +126,7 @@
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0866-prime-palindrome) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Primality Test
 |  |
 | ------- |
