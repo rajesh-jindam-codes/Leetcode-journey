@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -35,6 +36,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
 | [0516-longest-palindromic-subsequence](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0583-delete-operation-for-two-strings) |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
