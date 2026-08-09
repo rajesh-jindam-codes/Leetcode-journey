@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0007-reverse-integer) |
 | [0866-prime-palindrome](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0866-prime-palindrome) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1323-maximum-69-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1323-maximum-69-number](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1323-maximum-69-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Topological Sort
