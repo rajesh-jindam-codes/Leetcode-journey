@@ -78,6 +78,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0207-course-schedule](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0210-course-schedule-ii) |
 | [3310-remove-methods-from-project](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
@@ -154,4 +155,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
