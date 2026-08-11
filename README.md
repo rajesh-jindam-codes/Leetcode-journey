@@ -9,6 +9,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1323-maximum-69-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | ------- |
 | [0866-prime-palindrome](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0866-prime-palindrome) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Primality Test
 |  |
 | ------- |
