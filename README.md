@@ -18,6 +18,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -165,8 +167,14 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
