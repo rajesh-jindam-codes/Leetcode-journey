@@ -16,6 +16,7 @@
 | [0001-two-sum](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -75,6 +76,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0516-longest-palindromic-subsequence](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0516-longest-palindromic-subsequence) |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0905-sort-array-by-parity) |
@@ -124,6 +127,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
@@ -177,4 +181,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
