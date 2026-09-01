@@ -28,6 +28,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@
 | [0133-clone-graph](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +93,7 @@
 | [0207-course-schedule](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0210-course-schedule-ii) |
 | [3310-remove-methods-from-project](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -185,4 +189,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
