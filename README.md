@@ -30,6 +30,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,4 +194,8 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
