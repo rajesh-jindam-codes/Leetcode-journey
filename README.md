@@ -17,6 +17,7 @@
 | [0014-longest-common-prefix](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -69,6 +70,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0079-word-search) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0516-longest-palindromic-subsequence](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0516-longest-palindromic-subsequence) |
