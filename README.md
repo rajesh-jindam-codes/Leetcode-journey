@@ -25,6 +25,7 @@
 | [0152-maximum-product-subarray](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0152-maximum-product-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0905-sort-array-by-parity) |
+| [1122-relative-sort-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -41,6 +42,7 @@
 | [0133-clone-graph](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1122-relative-sort-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1122-relative-sort-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3731-find-missing-elements) |
 ## String
@@ -78,6 +80,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0905-sort-array-by-parity) |
+| [1122-relative-sort-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1122-relative-sort-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3731-find-missing-elements](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -204,4 +207,16 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3903-smallest-stable-index-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
