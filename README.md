@@ -68,6 +68,7 @@
 | [0133-clone-graph](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0210-course-schedule-ii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
@@ -186,11 +187,13 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,4 +222,8 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/1122-relative-sort-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/rajesh-jindam-codes/Leetcode-journey/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
